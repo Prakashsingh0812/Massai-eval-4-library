@@ -19,14 +19,19 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# My React App
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Description
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is a simple React application that allows users to search and view book details. It fetches data from the Open Library API and displays it in a user-friendly interface.
 
+## Deployed Application
+
+You can view the live version of the application [here]([https://your-deployed-link.com](https://66fa86964daf870d9150e678--warm-shortbread-2ccaf5.netlify.app/)).
+
+## Getting Started
+
+### Prerequisites
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
