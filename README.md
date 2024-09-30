@@ -19,6 +19,8 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+
+
 # My React App
 
 ## Description
@@ -27,10 +29,9 @@ This is a simple React application that allows users to search and view book det
 
 ## Deployed Application
 
-You can view the live version of the application [here]([https://your-deployed-link.com](https://66fa86964daf870d9150e678--warm-shortbread-2ccaf5.netlify.app/)).
+You can view the live version of the application [here](https://66fa86964daf870d9150e678--warm-shortbread-2ccaf5.netlify.app/).
 
 ## Getting Started
-
 ### Prerequisites
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
