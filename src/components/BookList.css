@@ -1,0 +1,21 @@
+.book-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .book-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .book-cover {
+    width: 50px; /* Adjust size as needed */
+    height: 75px; /* Adjust size as needed */
+    margin-right: 10px;
+  }
+  
+  .book-details {
+    flex-grow: 1;
+  }
+  
